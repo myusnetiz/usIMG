@@ -1,4 +1,4 @@
 # imgsu
 "imgsu" adını verdiğim fotoğraf ve diğer çalışmalar
 
-Info : License = LGPLv3
+Info : License = GNU General Public License v3.0
