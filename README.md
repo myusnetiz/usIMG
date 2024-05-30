@@ -1,2 +1,2 @@
-# imgsu
-"imgsu" adını verdiğim fotoğraf ve diğer çalışmalar
+# usnetv
+Fotoğraf ve diğer çalışmalar CC0 lisanlı.
